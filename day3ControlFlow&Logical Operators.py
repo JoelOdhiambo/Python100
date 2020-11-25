@@ -171,7 +171,6 @@
 #     print(f"Your score is {score}.")
 
 
-
 # TREASURE ISLAND GAME
 print(''' 
                          +---------------------------+
